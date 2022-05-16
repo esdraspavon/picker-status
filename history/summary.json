@@ -40,9 +40,9 @@
     "url": "https://smr.pickerexpress.com",
     "icon": "https://favicons.githubusercontent.com/smr.pickerexpress.com",
     "slug": "share-my-ride-picker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 500,
     "timeMonth": 526,
     "timeYear": 519,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   },
   {
     "name": "API - Picker",
     "url": "https://api.pickerexpress.com/user/pingMe",
     "icon": "https://favicons.githubusercontent.com/api.pickerexpress.com",
     "slug": "api-picker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +71,18 @@
     "timeWeek": 491,
     "timeMonth": 499,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   },
   {
     "name": "Dashboard API - Picker",
     "url": "https://api.pickerexpress.com/user/pingMe",
     "icon": "https://favicons.githubusercontent.com/api.pickerexpress.com",
     "slug": "dashboard-api-picker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +91,8 @@
     "timeWeek": 111,
     "timeMonth": 110,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   }
 ]
