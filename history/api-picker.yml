@@ -1,7 +1,7 @@
 url: https://api.pickerexpress.com/user/pingMe
-status: down
-code: 503
-responseTime: 308
-lastUpdated: 2022-07-15T16:13:01.157Z
+status: up
+code: 200
+responseTime: 551
+lastUpdated: 2022-07-15T16:53:52.047Z
 startTime: Tue Apr 12 2022 11:21:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
