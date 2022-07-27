@@ -4,19 +4,19 @@
     "url": "https://www.pickerexpress.com",
     "icon": "https://favicons.githubusercontent.com/www.pickerexpress.com",
     "slug": "picker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 194,
-    "timeWeek": 357,
-    "timeMonth": 295,
-    "timeYear": 328,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 327,
+    "timeDay": 184,
+    "timeWeek": 336,
+    "timeMonth": 291,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-07-27": 0
+      "2022-07-27": 12
     }
   },
   {
