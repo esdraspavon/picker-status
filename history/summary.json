@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.pickerexpress.com",
     "slug": "picker",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 327,
-    "timeDay": 184,
-    "timeWeek": 336,
-    "timeMonth": 291,
-    "timeYear": 327,
-    "dailyMinutesDown": {
-      "2022-07-27": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 324,
+    "timeDay": 201,
+    "timeWeek": 302,
+    "timeMonth": 289,
+    "timeYear": 324,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard - Picker",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 31,
-    "timeWeek": 208,
-    "timeMonth": 185,
-    "timeYear": 179,
+    "time": 178,
+    "timeDay": 71,
+    "timeWeek": 177,
+    "timeMonth": 182,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 489,
-    "timeDay": 353,
-    "timeWeek": 896,
+    "time": 488,
+    "timeDay": 308,
+    "timeWeek": 870,
     "timeMonth": 503,
-    "timeYear": 489,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2022-05-16": 582
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.59%",
-    "time": 465,
-    "timeDay": 314,
-    "timeWeek": 508,
-    "timeMonth": 428,
-    "timeYear": 465,
+    "time": 463,
+    "timeDay": 334,
+    "timeWeek": 482,
+    "timeMonth": 427,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2022-07-15": 41,
       "2022-05-16": 582
@@ -90,9 +88,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.59%",
     "time": 108,
-    "timeDay": 72,
-    "timeWeek": 107,
-    "timeMonth": 101,
+    "timeDay": 73,
+    "timeWeek": 101,
+    "timeMonth": 100,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2022-07-15": 41,
