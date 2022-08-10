@@ -4,18 +4,20 @@
     "url": "https://www.pickerexpress.com",
     "icon": "https://favicons.githubusercontent.com/www.pickerexpress.com",
     "slug": "picker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 210,
-    "timeWeek": 250,
-    "timeMonth": 857,
-    "timeYear": 483,
-    "dailyMinutesDown": {}
+    "time": 481,
+    "timeDay": 220,
+    "timeWeek": 248,
+    "timeMonth": 840,
+    "timeYear": 481,
+    "dailyMinutesDown": {
+      "2022-08-10": 0
+    }
   },
   {
     "name": "Dashboard - Picker",
